@@ -47,6 +47,9 @@
     		overflow: hidden;
             /* background: rgba(255, 255, 255, 0.9); */
         }
+        .panel-success{
+            margin-bottom: 2px;
+        }
         .scroll {
 			max-height: 300px;
 			overflow: hidden;
